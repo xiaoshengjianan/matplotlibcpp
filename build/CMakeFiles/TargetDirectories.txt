@@ -1,0 +1,10 @@
+/home/jane/matplotlib-cpp-gai/build/CMakeFiles/rebuild_cache.dir
+/home/jane/matplotlib-cpp-gai/build/CMakeFiles/edit_cache.dir
+/home/jane/matplotlib-cpp-gai/build/matplotlib/CMakeFiles/rebuild_cache.dir
+/home/jane/matplotlib-cpp-gai/build/matplotlib/CMakeFiles/edit_cache.dir
+/home/jane/matplotlib-cpp-gai/build/example/CMakeFiles/rebuild_cache.dir
+/home/jane/matplotlib-cpp-gai/build/example/CMakeFiles/modern.dir
+/home/jane/matplotlib-cpp-gai/build/example/CMakeFiles/edit_cache.dir
+/home/jane/matplotlib-cpp-gai/build/main2/CMakeFiles/rebuild_cache.dir
+/home/jane/matplotlib-cpp-gai/build/main2/CMakeFiles/modern2.dir
+/home/jane/matplotlib-cpp-gai/build/main2/CMakeFiles/edit_cache.dir

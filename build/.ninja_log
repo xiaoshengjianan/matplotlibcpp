@@ -1,0 +1,5 @@
+# ninja log v5
+0	419	1691243196	example/CMakeFiles/modern.dir/src/modern.cpp.o	9309933588c76340
+420	581	1691243196	example/modern	d2506c53407e6a4d
+1	470	1691247233	main2/CMakeFiles/modern2.dir/src/modern.cpp.o	3fd2388eb42b6278
+470	616	1691247233	main2/modern2	5d256ade85160932

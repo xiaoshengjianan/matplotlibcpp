@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/jane/matplotlib-cpp-gai/build",
+  "command": "/usr/bin/g++ -I../example/include -I../matplotlib/include -isystem /usr/include/python3.6m -isystem /home/jane/.local/lib/python3.6/site-packages/numpy/core/include -g -std=c++11 -o example/CMakeFiles/modern.dir/src/modern.cpp.o -c /home/jane/matplotlib-cpp-gai/example/src/modern.cpp",
+  "file": "/home/jane/matplotlib-cpp-gai/example/src/modern.cpp"
+},
+{
+  "directory": "/home/jane/matplotlib-cpp-gai/build",
+  "command": "/usr/bin/g++ -I../main2/include -I../matplotlib/include -isystem /usr/include/python3.6m -isystem /home/jane/.local/lib/python3.6/site-packages/numpy/core/include -g -std=c++11 -o main2/CMakeFiles/modern2.dir/src/modern.cpp.o -c /home/jane/matplotlib-cpp-gai/main2/src/modern.cpp",
+  "file": "/home/jane/matplotlib-cpp-gai/main2/src/modern.cpp"
+}
+]
